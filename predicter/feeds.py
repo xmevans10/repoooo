@@ -35,8 +35,16 @@ def espn_parse(data, sport, retrieved):
         c = e['competitions'][0]
         teams = {t['homeAway']: t['team']['displayName'] for t in c['competitors']}
         books = []
-        for o in c.get('odds', []):
-            name = o.get('provider', {}).get('name', 'Unknown')
+        for o in c.get('odds') or []:
+            # Suspended/unavailable ESPN prices can be represented by null.
+            if not isinstance(o, dict):
+                continue
+            provider = o.get('provider')
+            if not isinstance(provider, dict):
+                continue
+            name = provider.get('name')
+            if not isinstance(name, str) or not name.strip():
+                continue
             prices = {}
             try:
                 ml = o.get('moneyline', {})

@@ -196,9 +196,11 @@ def run(state_dir='cloud-state'):
     else:
         state=initialize(now)
     state['errors']=[]
-    settle(state,now)
-    if now<stamp(state['entries_end_at']):
-        try:
+    # Do not publish prior prices as this cycle's observations on a feed failure.
+    state['last_opportunities']=[]
+    try:
+        settle(state,now)
+        if now<stamp(state['entries_end_at']):
             k=scan();events,errors=espn()
             state['errors'].extend(k['errors']+errors)
             benchmarks=compare(k['markets'],events)
@@ -206,8 +208,10 @@ def run(state_dir='cloud-state'):
             # Any partial-feed error blocks new entries this cycle.
             if not state['errors']:
                 enter(state,benchmarks,k['markets'],utcnow())
-        except (RuntimeError,ValueError,KeyError,TypeError) as e:
-            state['errors'].append(str(e))
+    except Exception as e:
+        # Operational boundary: persist completed settlements and failure health,
+        # then return nonzero below. Never convert a crash into a successful run.
+        state['errors'].append(f'{type(e).__name__}: {e}')
     state['scans']+=1;state['last_scan']=utcnow().isoformat()
     state['assessment']=assess(state,utcnow())
     tmp=file.with_suffix('.tmp');tmp.write_text(json.dumps(state,indent=2));tmp.replace(file)
