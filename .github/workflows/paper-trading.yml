@@ -1,0 +1,49 @@
+name: 30-day paper trading
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['predicter/**', 'tests/**', '.github/workflows/paper-trading.yml']
+permissions:
+  contents: write
+concurrency:
+  group: predicter-paper-experiment
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test strategy and accounting
+        run: python -m unittest discover -s tests -v
+      - name: Restore persistent experiment
+        uses: actions/checkout@v4
+        with:
+          ref: predicter-data
+          path: cloud-state
+      - name: Run paper experiment
+        id: experiment
+        continue-on-error: true
+        run: python -m predicter.experiment
+      - name: Save state and publish report
+        if: always() && steps.experiment.outcome != 'skipped'
+        working-directory: cloud-state
+        run: |
+          test -f state.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state.json README.md history
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record paper-trading scan'
+            git push origin HEAD:predicter-data
+          fi
+          cat README.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Surface feed failures
+        if: steps.experiment.outcome == 'failure'
+        run: exit 1
