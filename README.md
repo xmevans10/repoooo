@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-10T11:28:00.789339+00:00 · Scans: 25
+Last run: 2026-09-10T16:29:27.798390+00:00 · Scans: 26
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,14 +27,12 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP101305HOUPHI-PHI | 63.3% | $0.63 | +0.3% |
-| KXMLBGAME-26SEP101905COLNYY-COL | 26.1% | $0.26 | +0.1% |
+| KXMLBGAME-26SEP101305HOUPHI-HOU | 37.7% | $0.37 | +0.7% |
+| KXMLBGAME-26SEP101905COLNYY-COL | 28.2% | $0.28 | +0.2% |
 | KXMLBGAME-26SEP101610TEXSEA-SEA | 54.0% | $0.54 | +0.0% |
-| KXMLBGAME-26SEP101215TBATL-TB | 47.9% | $0.48 | -0.1% |
-| KXMLBGAME-26SEP101215TBATL-ATL | 52.1% | $0.53 | -0.9% |
 | KXMLBGAME-26SEP101610TEXSEA-TEX | 46.0% | $0.47 | -1.0% |
-| KXMLBGAME-26SEP101905COLNYY-NYY | 73.9% | $0.75 | -1.1% |
-| KXMLBGAME-26SEP101305HOUPHI-HOU | 36.7% | $0.38 | -1.3% |
+| KXMLBGAME-26SEP101905COLNYY-NYY | 71.8% | $0.73 | -1.2% |
+| KXMLBGAME-26SEP101305HOUPHI-PHI | 62.3% | $0.64 | -1.7% |
 
 ## Feed health
 

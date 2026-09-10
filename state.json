@@ -19,33 +19,33 @@
   },
   "policy_hash": "abeb85cef7fc196028c927d8813fa77d4e77d5a7f71b33b38ec876ea07b69e10",
   "positions": [],
-  "scans": 25,
-  "last_scan": "2026-09-10T11:28:00.789339+00:00",
+  "scans": 26,
+  "last_scan": "2026-09-10T16:29:27.798390+00:00",
   "errors": [],
   "last_opportunities": [
     {
-      "ticker": "KXMLBGAME-26SEP101305HOUPHI-PHI",
+      "ticker": "KXMLBGAME-26SEP101305HOUPHI-HOU",
       "event": "Houston Astros at Philadelphia Phillies",
-      "selection": "Philadelphia Phillies",
-      "probability": 0.6334637673980881,
-      "yes_ask": 0.63,
-      "raw_gap": 0.003463767398088069,
+      "selection": "Houston Astros",
+      "probability": 0.37665030578230396,
+      "yes_ask": 0.37,
+      "raw_gap": 0.006650305782303967,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T17:05Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP101905COLNYY-COL",
       "event": "Colorado Rockies at New York Yankees",
       "selection": "Colorado Rockies",
-      "probability": 0.26148004871409125,
-      "yes_ask": 0.26,
-      "raw_gap": 0.0014800487140912422,
+      "probability": 0.2821182082327862,
+      "yes_ask": 0.28,
+      "raw_gap": 0.0021182082327861895,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T23:05Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP101610TEXSEA-SEA",
@@ -57,31 +57,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T20:10Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP101215TBATL-TB",
-      "event": "Tampa Bay Rays at Atlanta Braves",
-      "selection": "Tampa Bay Rays",
-      "probability": 0.47949935261113513,
-      "yes_ask": 0.48,
-      "raw_gap": -0.0005006473888648499,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-10T16:15Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP101215TBATL-ATL",
-      "event": "Tampa Bay Rays at Atlanta Braves",
-      "selection": "Atlanta Braves",
-      "probability": 0.5205006473888649,
-      "yes_ask": 0.53,
-      "raw_gap": -0.009499352611135103,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-10T16:15Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP101610TEXSEA-TEX",
@@ -93,31 +69,31 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T20:10Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP101905COLNYY-NYY",
       "event": "Colorado Rockies at New York Yankees",
       "selection": "New York Yankees",
-      "probability": 0.7385199512859087,
-      "yes_ask": 0.75,
-      "raw_gap": -0.011480048714091251,
+      "probability": 0.7178817917672138,
+      "yes_ask": 0.73,
+      "raw_gap": -0.012118208232786198,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T23:05Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     },
     {
-      "ticker": "KXMLBGAME-26SEP101305HOUPHI-HOU",
+      "ticker": "KXMLBGAME-26SEP101305HOUPHI-PHI",
       "event": "Houston Astros at Philadelphia Phillies",
-      "selection": "Houston Astros",
-      "probability": 0.36653623260191187,
-      "yes_ask": 0.38,
-      "raw_gap": -0.013463767398088133,
+      "selection": "Philadelphia Phillies",
+      "probability": 0.6233496942176961,
+      "yes_ask": 0.64,
+      "raw_gap": -0.016650305782303865,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-10T17:05Z",
-      "retrieved_at": "2026-09-10T11:28:00.484826+00:00"
+      "retrieved_at": "2026-09-10T16:29:27.485134+00:00"
     }
   ],
   "assessment": {
