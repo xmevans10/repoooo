@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-10T19:46:21.172845+00:00 · Scans: 27
+Last run: 2026-09-10T22:38:53.135842+00:00 · Scans: 28
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,10 +27,20 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP101905COLNYY-COL | 28.6% | $0.28 | +0.6% |
-| KXMLBGAME-26SEP101610TEXSEA-SEA | 52.2% | $0.52 | +0.2% |
-| KXMLBGAME-26SEP101610TEXSEA-TEX | 47.8% | $0.49 | -1.2% |
-| KXMLBGAME-26SEP101905COLNYY-NYY | 71.4% | $0.73 | -1.6% |
+| KXMLBGAME-26SEP112010CLEMIN-CLE | 52.2% | $0.52 | +0.2% |
+| KXMLBGAME-26SEP111845LAAWSH-LAA | 41.7% | $0.42 | -0.3% |
+| KXMLBGAME-26SEP111915PHIATL-ATL | 61.6% | $0.62 | -0.4% |
+| KXMLBGAME-26SEP111905NYMNYY-NYM | 44.5% | $0.45 | -0.5% |
+| KXMLBGAME-26SEP111905NYMNYY-NYY | 55.5% | $0.56 | -0.5% |
+| KXMLBGAME-26SEP111915PHIATL-PHI | 38.4% | $0.39 | -0.6% |
+| KXMLBGAME-26SEP111907BALTOR-BAL | 46.4% | $0.47 | -0.6% |
+| KXMLBGAME-26SEP111910KCBOS-BOS | 64.3% | $0.65 | -0.7% |
+| KXMLBGAME-26SEP111845LAAWSH-WSH | 58.3% | $0.59 | -0.7% |
+| KXMLBGAME-26SEP101905COLNYY-NYY | 72.0% | $0.73 | -1.0% |
+| KXMLBGAME-26SEP101905COLNYY-COL | 28.0% | $0.29 | -1.0% |
+| KXMLBGAME-26SEP112010CLEMIN-MIN | 47.8% | $0.49 | -1.2% |
+| KXMLBGAME-26SEP111910KCBOS-KC | 35.7% | $0.37 | -1.3% |
+| KXMLBGAME-26SEP111907BALTOR-TOR | 53.6% | $0.55 | -1.4% |
 
 ## Feed health
 
