@@ -19,34 +19,10 @@
   },
   "policy_hash": "abeb85cef7fc196028c927d8813fa77d4e77d5a7f71b33b38ec876ea07b69e10",
   "positions": [],
-  "scans": 61,
-  "last_scan": "2026-09-16T17:05:14.852932+00:00",
+  "scans": 62,
+  "last_scan": "2026-09-16T20:12:57.539946+00:00",
   "errors": [],
   "last_opportunities": [
-    {
-      "ticker": "KXMLBGAME-26SEP161340NYYMIN-MIN",
-      "event": "New York Yankees at Minnesota Twins",
-      "selection": "Minnesota Twins",
-      "probability": 0.4070892345793669,
-      "yes_ask": 0.39,
-      "raw_gap": 0.017089234579366896,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T17:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161507DETTOR-DET",
-      "event": "Detroit Tigers at Toronto Blue Jays",
-      "selection": "Detroit Tigers",
-      "probability": 0.45680081909112397,
-      "yes_ask": 0.45,
-      "raw_gap": 0.006800819091123955,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T19:07Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
     {
       "ticker": "KXMLBGAME-26SEP162138SEALAA-SEA",
       "event": "Seattle Mariners at Los Angeles Angels",
@@ -57,7 +33,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T01:38Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162005BOSTEX-BOS",
@@ -69,19 +45,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:05Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161840LADCIN-CIN",
-      "event": "Los Angeles Dodgers at Cincinnati Reds",
-      "selection": "Cincinnati Reds",
-      "probability": 0.34381668858183695,
-      "yes_ask": 0.34,
-      "raw_gap": 0.0038166885818369245,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T22:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP161845PHIWSH-WSH",
@@ -93,7 +57,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-16T22:45Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
+    },
+    {
+      "ticker": "KXMLBGAME-26SEP161840LADCIN-CIN",
+      "event": "Los Angeles Dodgers at Cincinnati Reds",
+      "selection": "Cincinnati Reds",
+      "probability": 0.3430070644401673,
+      "yes_ask": 0.34,
+      "raw_gap": 0.0030070644401672952,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-16T22:40Z",
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162010KCHOU-KC",
@@ -105,7 +81,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:10Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162140MIAAZ-MIA",
@@ -117,7 +93,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T01:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
+    },
+    {
+      "ticker": "KXMLBGAME-26SEP161940ATLCHC-CHC",
+      "event": "Atlanta Braves at Chicago Cubs",
+      "selection": "Chicago Cubs",
+      "probability": 0.5981699425097072,
+      "yes_ask": 0.6,
+      "raw_gap": -0.0018300574902927469,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-16T23:40Z",
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP161840MILPIT-PIT",
@@ -129,31 +117,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-16T22:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
-      "ticker": "KXMLBGAME-26SEP161315SFSTL-SF",
-      "event": "San Francisco Giants at St. Louis Cardinals",
-      "selection": "San Francisco Giants",
-      "probability": 0.4070892345793669,
-      "yes_ask": 0.41,
-      "raw_gap": -0.0029107654206330658,
+      "ticker": "KXMLBGAME-26SEP171510SDCOL-COL",
+      "event": "San Diego Padres at Colorado Rockies",
+      "selection": "Colorado Rockies",
+      "probability": 0.38737006381852135,
+      "yes_ask": 0.39,
+      "raw_gap": -0.002629936181478665,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T17:15Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161940ATLCHC-ATL",
-      "event": "Atlanta Braves at Chicago Cubs",
-      "selection": "Atlanta Braves",
-      "probability": 0.4065291037881121,
-      "yes_ask": 0.41,
-      "raw_gap": -0.003470896211887897,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T23:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "commence_time": "2026-09-17T19:10Z",
+      "retrieved_at": "2026-09-16T20:12:57.150121+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162040SDCOL-COL",
@@ -165,7 +141,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162040SDCOL-SD",
@@ -177,31 +153,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161940ATLCHC-CHC",
-      "event": "Atlanta Braves at Chicago Cubs",
-      "selection": "Chicago Cubs",
-      "probability": 0.5934708962118879,
-      "yes_ask": 0.6,
-      "raw_gap": -0.006529103788112112,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T23:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161315SFSTL-STL",
-      "event": "San Francisco Giants at St. Louis Cardinals",
-      "selection": "St. Louis Cardinals",
-      "probability": 0.592910765420633,
-      "yes_ask": 0.6,
-      "raw_gap": -0.007089234579366943,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T17:15Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP161840MILPIT-MIL",
@@ -213,7 +165,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-16T22:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
+    },
+    {
+      "ticker": "KXMLBGAME-26SEP161940ATLCHC-ATL",
+      "event": "Atlanta Braves at Chicago Cubs",
+      "selection": "Atlanta Braves",
+      "probability": 0.4018300574902929,
+      "yes_ask": 0.41,
+      "raw_gap": -0.008169942509707095,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-16T23:40Z",
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162140MIAAZ-AZ",
@@ -225,7 +189,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T01:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162010KCHOU-HOU",
@@ -237,7 +201,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:10Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
+    },
+    {
+      "ticker": "KXMLBGAME-26SEP161840LADCIN-LAD",
+      "event": "Los Angeles Dodgers at Cincinnati Reds",
+      "selection": "Los Angeles Dodgers",
+      "probability": 0.6569929355598327,
+      "yes_ask": 0.67,
+      "raw_gap": -0.013007064440167304,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-16T22:40Z",
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP161845PHIWSH-PHI",
@@ -249,19 +225,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-16T22:45Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161840LADCIN-LAD",
-      "event": "Los Angeles Dodgers at Cincinnati Reds",
-      "selection": "Los Angeles Dodgers",
-      "probability": 0.656183311418163,
-      "yes_ask": 0.67,
-      "raw_gap": -0.013816688581837044,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T22:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162005BOSTEX-TEX",
@@ -273,7 +237,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T00:05Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP162138SEALAA-LAA",
@@ -285,31 +249,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-17T01:38Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "retrieved_at": "2026-09-16T20:12:57.043365+00:00"
     },
     {
-      "ticker": "KXMLBGAME-26SEP161507DETTOR-TOR",
-      "event": "Detroit Tigers at Toronto Blue Jays",
-      "selection": "Toronto Blue Jays",
-      "probability": 0.5431991809088762,
-      "yes_ask": 0.56,
-      "raw_gap": -0.016800819091123853,
+      "ticker": "KXMLBGAME-26SEP171510SDCOL-SD",
+      "event": "San Diego Padres at Colorado Rockies",
+      "selection": "San Diego Padres",
+      "probability": 0.6126299361814787,
+      "yes_ask": 0.63,
+      "raw_gap": -0.017370063818521353,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T19:07Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP161340NYYMIN-NYY",
-      "event": "New York Yankees at Minnesota Twins",
-      "selection": "New York Yankees",
-      "probability": 0.592910765420633,
-      "yes_ask": 0.61,
-      "raw_gap": -0.017089234579366952,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-16T17:40Z",
-      "retrieved_at": "2026-09-16T17:05:14.496149+00:00"
+      "commence_time": "2026-09-17T19:10Z",
+      "retrieved_at": "2026-09-16T20:12:57.150121+00:00"
     }
   ],
   "assessment": {
