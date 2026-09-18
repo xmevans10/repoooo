@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-17T22:14:25.820300+00:00 · Scans: 68
+Last run: 2026-09-18T00:27:56.085207+00:00 · Scans: 69
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,26 +27,20 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP171915PHINYM-NYM | 54.3% | $0.54 | +0.3% |
 | KXMLBGAME-26SEP181840KCPIT-KC | 38.1% | $0.38 | +0.1% |
-| KXMLBGAME-26SEP172005BOSTEX-BOS | 54.0% | $0.54 | +0.0% |
-| KXMLBGAME-26SEP172138MINLAA-MIN | 50.0% | $0.50 | +0.0% |
-| KXMLBGAME-26SEP172138MINLAA-LAA | 50.0% | $0.50 | +0.0% |
-| KXMLBGAME-26SEP182015WSHSTL-WSH | 48.9% | $0.49 | -0.1% |
 | KXMLBGAME-26SEP182138MINLAA-LAA | 46.9% | $0.47 | -0.1% |
+| KXMLBGAME-26SEP182010ATLHOU-HOU | 47.8% | $0.48 | -0.2% |
 | KXMLBGAME-26SEP182140NYYAZ-AZ | 45.8% | $0.46 | -0.2% |
-| KXMLBGAME-26SEP171915KCHOU-KC | 41.7% | $0.42 | -0.3% |
 | KXMLBGAME-26SEP181910BOSTB-BOS | 46.6% | $0.47 | -0.4% |
 | KXMLBGAME-26SEP181910BOSTB-TB | 53.4% | $0.54 | -0.6% |
 | KXMLBGAME-26SEP182140MIASD-MIA | 36.4% | $0.37 | -0.6% |
-| KXMLBGAME-26SEP171915KCHOU-HOU | 58.3% | $0.59 | -0.7% |
 | KXMLBGAME-26SEP182140NYYAZ-NYY | 54.2% | $0.55 | -0.8% |
+| KXMLBGAME-26SEP182010ATLHOU-ATL | 52.2% | $0.53 | -0.8% |
 | KXMLBGAME-26SEP182138MINLAA-MIN | 53.1% | $0.54 | -0.9% |
 | KXMLBGAME-26SEP182015WSHSTL-STL | 51.1% | $0.52 | -0.9% |
 | KXMLBGAME-26SEP181840KCPIT-PIT | 61.9% | $0.63 | -1.1% |
-| KXMLBGAME-26SEP171915PHINYM-PHI | 45.7% | $0.47 | -1.3% |
+| KXMLBGAME-26SEP182015WSHSTL-WSH | 48.9% | $0.50 | -1.1% |
 | KXMLBGAME-26SEP182140MIASD-SD | 63.6% | $0.65 | -1.4% |
-| KXMLBGAME-26SEP172005BOSTEX-TEX | 46.0% | $0.48 | -2.0% |
 
 ## Feed health
 
