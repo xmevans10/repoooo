@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-21T06:27:33.864603+00:00 · Scans: 89
+Last run: 2026-09-21T14:16:52.035376+00:00 · Scans: 90
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,12 +27,12 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP211840WSHDET-WSH | 41.8% | $0.42 | -0.2% |
-| KXMLBGAME-26SEP211835TORBAL-BAL | 50.5% | $0.51 | -0.5% |
-| KXMLBGAME-26SEP211835TORBAL-TOR | 49.5% | $0.50 | -0.5% |
-| KXMLBGAME-26SEP212145MINSF-SF | 48.3% | $0.49 | -0.7% |
-| KXMLBGAME-26SEP211840WSHDET-DET | 58.2% | $0.59 | -0.8% |
-| KXMLBGAME-26SEP212145MINSF-MIN | 51.7% | $0.53 | -1.3% |
+| KXMLBGAME-26SEP211840WSHDET-WSH | 45.1% | $0.45 | +0.1% |
+| KXMLBGAME-26SEP212145MINSF-SF | 47.9% | $0.48 | -0.1% |
+| KXMLBGAME-26SEP211835TORBAL-BAL | 50.4% | $0.51 | -0.6% |
+| KXMLBGAME-26SEP212145MINSF-MIN | 52.1% | $0.53 | -0.9% |
+| KXMLBGAME-26SEP211840WSHDET-DET | 54.9% | $0.56 | -1.1% |
+| KXMLBGAME-26SEP211835TORBAL-TOR | 49.6% | $0.51 | -1.4% |
 
 ## Feed health
 
