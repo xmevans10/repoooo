@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-27T19:00:52.584488+00:00 · Scans: 123
+Last run: 2026-09-27T22:17:10.085832+00:00 · Scans: 124
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,24 +27,6 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP271505LADSF-SF | 31.8% | $0.31 | +0.8% |
-| KXMLBGAME-26SEP271510AZSD-SD | 41.7% | $0.41 | +0.7% |
-| KXMLBGAME-26SEP271510LAASEA-LAA | 40.3% | $0.40 | +0.3% |
-| KXMLBGAME-26SEP271510PITDET-PIT | 48.7% | $0.49 | -0.3% |
-| KXMLBGAME-26SEP271507CINTOR-CIN | 39.7% | $0.40 | -0.3% |
-| KXMLBGAME-26SEP271510STLMIL-MIL | 65.6% | $0.66 | -0.4% |
-| KXMLBGAME-26SEP271510TEXMIN-TEX | 51.5% | $0.52 | -0.5% |
-| KXMLBGAME-26SEP271510TEXMIN-MIN | 48.5% | $0.49 | -0.5% |
-| KXMLBGAME-26SEP271510STLMIL-STL | 34.4% | $0.35 | -0.6% |
-| KXMLBGAME-26SEP271510ATLMIA-MIA | 53.3% | $0.54 | -0.7% |
-| KXMLBGAME-26SEP271507CINTOR-TOR | 60.3% | $0.61 | -0.7% |
-| KXMLBGAME-26SEP271510PITDET-DET | 51.3% | $0.52 | -0.7% |
-| KXMLBGAME-26SEP271510CLEKC-KC | 50.2% | $0.51 | -0.8% |
-| KXMLBGAME-26SEP271510CLEKC-CLE | 49.8% | $0.51 | -1.2% |
-| KXMLBGAME-26SEP271510ATLMIA-ATL | 46.7% | $0.48 | -1.3% |
-| KXMLBGAME-26SEP271510LAASEA-SEA | 59.7% | $0.61 | -1.3% |
-| KXMLBGAME-26SEP271510AZSD-AZ | 58.3% | $0.60 | -1.7% |
-| KXMLBGAME-26SEP271505LADSF-LAD | 68.2% | $0.70 | -1.8% |
 
 ## Feed health
 
