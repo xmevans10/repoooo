@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-09-29T13:01:32.045527+00:00 · Scans: 130
+Last run: 2026-09-29T18:40:58.035209+00:00 · Scans: 131
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,12 +27,10 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26SEP292000BOSNYY-NYY | 56.6% | $0.56 | +0.6% |
-| KXMLBGAME-26SEP291400PHIATL-ATL | 64.3% | $0.64 | +0.3% |
-| KXMLBGAME-26SEP292200CHCSD-SD | 54.0% | $0.55 | -1.0% |
-| KXMLBGAME-26SEP292200CHCSD-CHC | 46.0% | $0.47 | -1.0% |
-| KXMLBGAME-26SEP291400PHIATL-PHI | 35.7% | $0.37 | -1.3% |
-| KXMLBGAME-26SEP292000BOSNYY-BOS | 43.4% | $0.45 | -1.6% |
+| KXMLBGAME-26SEP292200CHCSD-CHC | 47.1% | $0.46 | +1.1% |
+| KXMLBGAME-26SEP292000BOSNYY-NYY | 55.8% | $0.56 | -0.2% |
+| KXMLBGAME-26SEP292000BOSNYY-BOS | 44.2% | $0.45 | -0.8% |
+| KXMLBGAME-26SEP292200CHCSD-SD | 52.9% | $0.55 | -2.1% |
 
 ## Feed health
 
