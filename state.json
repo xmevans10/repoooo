@@ -19,10 +19,22 @@
   },
   "policy_hash": "abeb85cef7fc196028c927d8813fa77d4e77d5a7f71b33b38ec876ea07b69e10",
   "positions": [],
-  "scans": 128,
-  "last_scan": "2026-09-28T23:20:44.140853+00:00",
+  "scans": 129,
+  "last_scan": "2026-09-29T05:50:01.061787+00:00",
   "errors": [],
   "last_opportunities": [
+    {
+      "ticker": "KXMLBGAME-26SEP292000BOSNYY-NYY",
+      "event": "Boston Red Sox at New York Yankees",
+      "selection": "New York Yankees",
+      "probability": 0.5656028368794326,
+      "yes_ask": 0.56,
+      "raw_gap": 0.005602836879432527,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-30T00:00Z",
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
+    },
     {
       "ticker": "KXMLBGAME-26SEP291400PHIATL-ATL",
       "event": "Philadelphia Phillies at Atlanta Braves",
@@ -33,19 +45,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-29T18:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP292000BOSNYY-BOS",
-      "event": "Boston Red Sox at New York Yankees",
-      "selection": "Boston Red Sox",
-      "probability": 0.4470179938888679,
-      "yes_ask": 0.45,
-      "raw_gap": -0.002982006111132085,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-30T00:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP292200CHCSD-CHC",
@@ -57,19 +57,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-30T02:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26SEP292000BOSNYY-NYY",
-      "event": "Boston Red Sox at New York Yankees",
-      "selection": "New York Yankees",
-      "probability": 0.552982006111132,
-      "yes_ask": 0.56,
-      "raw_gap": -0.007017993888868035,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-09-30T00:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP291400PHIATL-PHI",
@@ -81,7 +69,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-29T18:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
+    },
+    {
+      "ticker": "KXMLBGAME-26SEP292000BOSNYY-BOS",
+      "event": "Boston Red Sox at New York Yankees",
+      "selection": "Boston Red Sox",
+      "probability": 0.43439716312056736,
+      "yes_ask": 0.45,
+      "raw_gap": -0.015602836879432647,
+      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
+      "source": "DraftKings via ESPN",
+      "commence_time": "2026-09-30T00:00Z",
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
     },
     {
       "ticker": "KXMLBGAME-26SEP292200CHCSD-SD",
@@ -93,7 +93,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-09-30T02:00Z",
-      "retrieved_at": "2026-09-28T23:20:43.795436+00:00"
+      "retrieved_at": "2026-09-29T05:50:00.832296+00:00"
     }
   ],
   "assessment": {
