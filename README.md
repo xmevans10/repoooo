@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-10-01T14:33:28.654563+00:00 · Scans: 139
+Last run: 2026-10-01T20:22:30.142398+00:00 · Scans: 140
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
