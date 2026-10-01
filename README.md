@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-10-01T00:36:17.450230+00:00 · Scans: 137
+Last run: 2026-10-01T07:13:04.444237+00:00 · Scans: 138
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,8 +27,6 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26OCT011400PHIATL-PHI | 51.3% | $0.51 | +0.3% |
-| KXMLBGAME-26OCT011400PHIATL-ATL | 48.7% | $0.50 | -1.3% |
 
 ## Feed health
 
