@@ -5,7 +5,7 @@
 **Collecting forward evidence**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-10-02T19:22:38.965764+00:00 · Scans: 144
+Last run: 2026-10-02T23:49:56.382737+00:00 · Scans: 145
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
@@ -27,12 +27,12 @@ Indicative differences below are **before fees and uncertainty buffer**, not ent
 
 | Contract | DK implied probability | Kalshi ask | Raw difference |
 |---|---:|---:|---:|
-| KXMLBGAME-26OCT032030SDMIL-MIL | 65.6% | $0.65 | +0.6% |
-| KXMLBGAME-26OCT031600ATLLAD-ATL | 33.9% | $0.34 | -0.1% |
-| KXMLBGAME-26OCT032030SDMIL-SD | 34.4% | $0.35 | -0.6% |
+| KXMLBGAME-26OCT031830NYYTB-NYY | 44.9% | $0.45 | -0.1% |
+| KXMLBGAME-26OCT032030SDMIL-SD | 35.8% | $0.36 | -0.2% |
+| KXMLBGAME-26OCT031600ATLLAD-LAD | 66.7% | $0.67 | -0.3% |
+| KXMLBGAME-26OCT031600ATLLAD-ATL | 33.3% | $0.34 | -0.7% |
+| KXMLBGAME-26OCT032030SDMIL-MIL | 64.2% | $0.65 | -0.8% |
 | KXMLBGAME-26OCT031830NYYTB-TB | 55.1% | $0.56 | -0.9% |
-| KXMLBGAME-26OCT031600ATLLAD-LAD | 66.1% | $0.67 | -0.9% |
-| KXMLBGAME-26OCT031830NYYTB-NYY | 44.9% | $0.46 | -1.1% |
 
 ## Feed health
 
