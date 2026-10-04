@@ -19,21 +19,21 @@
   },
   "policy_hash": "abeb85cef7fc196028c927d8813fa77d4e77d5a7f71b33b38ec876ea07b69e10",
   "positions": [],
-  "scans": 154,
-  "last_scan": "2026-10-04T19:41:05.592087+00:00",
+  "scans": 155,
+  "last_scan": "2026-10-04T23:15:11.890235+00:00",
   "errors": [],
   "last_opportunities": [
     {
       "ticker": "KXMLBGAME-26OCT042000ATLLAD-ATL",
       "event": "Atlanta Braves at Los Angeles Dodgers",
       "selection": "Atlanta Braves",
-      "probability": 0.35026269702276713,
-      "yes_ask": 0.33,
-      "raw_gap": 0.020262697022767118,
+      "probability": 0.3490888001606031,
+      "yes_ask": 0.32,
+      "raw_gap": 0.029088800160603112,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-10-05T00:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.341614+00:00"
+      "retrieved_at": "2026-10-04T23:15:11.645336+00:00"
     },
     {
       "ticker": "KXMLBGAME-26OCT052000NYYTB-NYY",
@@ -45,19 +45,7 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-10-06T00:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.323002+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26OCT041600SDMIL-SD",
-      "event": "San Diego Padres at Milwaukee Brewers",
-      "selection": "San Diego Padres",
-      "probability": 0.44894232232536907,
-      "yes_ask": 0.45,
-      "raw_gap": -0.0010576776746309413,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-10-04T20:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.341614+00:00"
+      "retrieved_at": "2026-10-04T23:15:11.589254+00:00"
     },
     {
       "ticker": "KXMLBGAME-26OCT052000NYYTB-TB",
@@ -69,31 +57,19 @@
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-10-06T00:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.323002+00:00"
-    },
-    {
-      "ticker": "KXMLBGAME-26OCT041600SDMIL-MIL",
-      "event": "San Diego Padres at Milwaukee Brewers",
-      "selection": "Milwaukee Brewers",
-      "probability": 0.551057677674631,
-      "yes_ask": 0.56,
-      "raw_gap": -0.008942322325369068,
-      "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
-      "source": "DraftKings via ESPN",
-      "commence_time": "2026-10-04T20:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.341614+00:00"
+      "retrieved_at": "2026-10-04T23:15:11.589254+00:00"
     },
     {
       "ticker": "KXMLBGAME-26OCT042000ATLLAD-LAD",
       "event": "Atlanta Braves at Los Angeles Dodgers",
       "selection": "Los Angeles Dodgers",
-      "probability": 0.649737302977233,
-      "yes_ask": 0.68,
-      "raw_gap": -0.03026269702276707,
+      "probability": 0.6509111998393967,
+      "yes_ask": 0.69,
+      "raw_gap": -0.03908880016060323,
       "reason": "Watch only: single-book benchmark; unknown quote age; before fees",
       "source": "DraftKings via ESPN",
       "commence_time": "2026-10-05T00:00Z",
-      "retrieved_at": "2026-10-04T19:41:05.341614+00:00"
+      "retrieved_at": "2026-10-04T23:15:11.645336+00:00"
     }
   ],
   "assessment": {
