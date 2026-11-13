@@ -5,7 +5,7 @@
 **Inconclusive: insufficient independent settled events**
 
 Entry window: 2026-09-06T07:04:06.724949+00:00 → 2026-10-06T07:04:06.724949+00:00
-Last run: 2026-11-13T06:54:01.455641+00:00 · Scans: 325
+Last run: 2026-11-13T15:27:53.298225+00:00 · Scans: 326
 
 | Starting bankroll | Equity | Available cash | Open exposure | Realized P&L |
 |---:|---:|---:|---:|---:|
